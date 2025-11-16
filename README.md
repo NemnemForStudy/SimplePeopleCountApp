@@ -21,12 +21,10 @@
     * **"며칠에 몇 명 셌는지"**에 대한 기록이 저장되어야 합니다.
 
 ## 🛠️ 사용 기술 (Tech Stack)
-
 <table>
   <tr>
     <th>구분</th>
-    <th>내용</th>
-  </tr>
+    <th>내용</th></tr>
   <!-- Language -->
   <tr>
     <td><b>언어</b></td>
@@ -53,9 +51,7 @@
   <tr>
     <td><b>Jetpack 라이브러리</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Navigation-3D4D84?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/ViewModel-3D4D84?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/LiveData-3D4D84?style=for-the-badge"/>
       <img src="https://img.shields.io/badge/Room-3D4D84?style=for-the-badge"/>
     </td>
   </tr>
@@ -82,8 +78,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ## 📱 Screenshots
 ### 🟢 메인 카운팅 화면 (초기 상태)
