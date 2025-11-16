@@ -20,23 +20,21 @@
 3.  **데이터 기록:**
     * **"며칠에 몇 명 셌는지"**에 대한 기록이 저장되어야 합니다.
 
-## 📱 Screenshots (사용법)
-
+## 📱 Screenshots
 ### 🟢 메인 카운팅 화면 (초기 상태)
-<img width="384" height="835" alt="image" src="https://www.youtube.com/watch?v=KsZ6tROaVOQ" />
+<img width="250" alt="초기 상태" src="https://github.com/user-attachments/assets/de118cda-54ec-4a61-b7e5-a37104ab17cb" />
 
 ### ✨ 카운트 저장 시
-<img width="384" height="828" alt="카운트 저장" src="https://github.com/user-attachments/assets/3f61ee6e-99db-49ec-8ea2-4d50403965d6" />
+<img width="250" alt="카운트 저장" src="https://github.com/user-attachments/assets/3f61ee6e-99db-49ec-8ea2-4d50403965d6" />
 
 ### 🔄 카운트 리셋
-<img width="386" height="833" alt="image" src="https://www.channel4.com/" />
+<img width="250" alt="카운트 리셋" src="https://github.com/user-attachments/assets/ae5232c2-ff59-46d0-930d-448dd6cb5cff" />
 
 ### 💾 카운트 여러 개 저장 및 기록 확인
-<img width="382" height="836" alt="image" src="https://www.channel5.com/" />
+<img width="250" alt="카운트 저장" src="https://github.com/user-attachments/assets/dbc7f7eb-e420-49ce-a456-1d53337219c3" />
 
-### ⚠️ 데이터 삭제 확인 (팝업 메시지)
-<img width="380" height="839" alt="image" src="https://en.wikipedia.org/wiki/6" />
+### ⚠️ 데이터 리셋 클릭 (팝업 메시지)
+<img width="250" alt="데이터 리셋 클릭" src="https://github.com/user-attachments/assets/78119836-e40c-4140-af4f-f9227d355d0c" />
 
 ### 🗑️ 확인 클릭 후 데이터 (최종 상태)
-<img width="389" height="836" alt="image" src="https://www.youtube.com/watch?v=9V-vcXOpG9g" />
-
+<img width="250" alt="최종 상태" src="https://github.com/user-attachments/assets/65ccf451-87e9-4146-838f-410473a044e6" />
