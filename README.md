@@ -20,17 +20,69 @@
 3.  **데이터 기록:**
     * **"며칠에 몇 명 셌는지"**에 대한 기록이 저장되어야 합니다.
 
-##🛠️ 사용 기술 (Tech Stack)
+## 🛠️ 사용 기술 (Tech Stack)
 
-*   **언어**: `Kotlin`
-*   **아키텍처**: `MVVM (Model-View-ViewModel)`
-*   **UI**: `Jetpack Compose`
-*   **주요 라이브러리**:
-    *   `Jetpack`: ViewModel, LiveData, Navigation, Room
-    *   `비동기 처리`: Coroutines
-    *   `네트워크 통신`: Retrofit2, OkHttp3
-    *   `서버`: Firebase
-*   **버전 관리**: `Git`, `GitHub`
+<table>
+  <tr>
+    <th>구분</th>
+    <th>내용</th>
+  </tr>
+  <!-- Language -->
+  <tr>
+    <td><b>언어</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    </td>
+  </tr>
+  <!-- Android -->
+  <tr>
+    <td><b>안드로이드</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jetpack Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
+    </td>
+  </tr>
+  <!-- Architecture -->
+  <tr>
+    <td><b>아키텍처</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/MVVM-3D4D84?style=for-the-badge"/>
+    </td>
+  </tr>
+  <!-- Jetpack Components -->
+  <tr>
+    <td><b>Jetpack 라이브러리</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Navigation-3D4D84?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/ViewModel-3D4D84?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/LiveData-3D4D84?style=for-the-badge"/>
+      <img src="https://img.shields.io/badge/Room-3D4D84?style=for-the-badge"/>
+    </td>
+  </tr>
+  <!-- Asynchronous -->
+  <tr>
+    <td><b>비동기 처리</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Coroutines-3DDC84?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    </td>
+  </tr>
+    <!-- Server -->
+  <tr>
+    <td><b>서버 / 통신</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Retrofit2-3D4D84?style=for-the-badge"/>
+    </td>
+  </tr>
+  <!-- Version Control -->
+  <tr>
+    <td><b>버전 관리</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📱 Screenshots
