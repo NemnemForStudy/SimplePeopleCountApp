@@ -20,6 +20,19 @@
 3.  **데이터 기록:**
     * **"며칠에 몇 명 셌는지"**에 대한 기록이 저장되어야 합니다.
 
+##🛠️ 사용 기술 (Tech Stack)
+
+*   **언어**: `Kotlin`
+*   **아키텍처**: `MVVM (Model-View-ViewModel)`
+*   **UI**: `Jetpack Compose`
+*   **주요 라이브러리**:
+    *   `Jetpack`: ViewModel, LiveData, Navigation, Room
+    *   `비동기 처리`: Coroutines
+    *   `네트워크 통신`: Retrofit2, OkHttp3
+    *   `서버`: Firebase
+*   **버전 관리**: `Git`, `GitHub`
+
+
 ## 📱 Screenshots
 ### 🟢 메인 카운팅 화면 (초기 상태)
 <img width="250" alt="초기 상태" src="https://github.com/user-attachments/assets/de118cda-54ec-4a61-b7e5-a37104ab17cb" />
