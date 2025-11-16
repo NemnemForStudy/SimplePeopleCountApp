@@ -26,7 +26,7 @@
 <img width="384" height="835" alt="image" src="https://www.youtube.com/watch?v=KsZ6tROaVOQ" />
 
 ### ✨ 카운트 저장 시
-<img width="383" height="835" alt="image" src="https://www.netflix.com/title/80074220" />
+<img width="384" height="828" alt="카운트 저장" src="https://github.com/user-attachments/assets/3f61ee6e-99db-49ec-8ea2-4d50403965d6" />
 
 ### 🔄 카운트 리셋
 <img width="386" height="833" alt="image" src="https://www.channel4.com/" />
